@@ -82,6 +82,11 @@ h1{
 	text-align: center;
 }
 
+.single-image{
+	width:400px;
+	height: 500px;
+}
+
 #musicpage{
 	text-align: center;
 }
@@ -101,7 +106,7 @@ h1{
 	text-align: center;
 	
 }
-
+/*merch cards*/
 .flip-card{
 	background-color: transparent;
 	width: 300px;
@@ -130,7 +135,6 @@ h1{
   position: absolute;
   width: 100%;
   height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
   backface-visibility: hidden;
 }
 
@@ -160,8 +164,6 @@ h1{
 	text-align: center;
 }
 
-
-
 .column{
 	float: left;
 	width: 24%;
@@ -169,7 +171,7 @@ h1{
 }
 
 .card{
-	box-shadow: 0 4px 8px 0 rgba(255,255,255,224.8);
+	box-shadow: 0 4px 8px 0 rgba(255,255,255,224);
 	font-family: "Myriad Pro";
 	font-size: 15px;
 	color: white;
