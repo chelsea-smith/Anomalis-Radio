@@ -176,7 +176,13 @@ h1{
 	font-size: 15px;
 	color: white;
 	position: relative;
+	width: 100%;
 }
+
+.card-image{
+	width: 100%;
+}
+
 h2{
 	color: white;
 	font-family: "Bebas Neue";
